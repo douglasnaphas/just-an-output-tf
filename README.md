@@ -1,2 +1,2 @@
-# just-a-stackset-tf
-A CloudFormation StackSet, for deployment with Terraform Cloud.
+# just-an-output
+A Terraform configuration with an output, for bootstrapping new projects in Terraform Cloud.
